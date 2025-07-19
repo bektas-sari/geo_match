@@ -1,0 +1,10 @@
+# Say sadece lib klasöründeki Dart dosyalarını
+lib/** linguist-language=Dart
+
+# Android, iOS gibi sistem klasörlerini dışla
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+ 
