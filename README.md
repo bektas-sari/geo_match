@@ -51,8 +51,8 @@ Academia: [Bektas Sari](https://independent.academia.edu/bektassari) <br>
 ## 📁 Getting Started
 
 ```bash
-git clone https://github.com/bektas-sari/kids-puzzle-game.git
-cd kids-puzzle-game
+git clone https://github.com/bektas-sari/geo_match.git
+cd geo_match
 flutter pub get
 flutter run
 ```
