@@ -1,4 +1,4 @@
-# Kids Puzzle Game 🎮
+# Kids Puzzle Game 🎮 (Flutter APP)
 
 An interactive and educational Flutter game designed for children to improve their visual memory and puzzle-solving skills by matching pairs of colorful geometric shapes.
 
