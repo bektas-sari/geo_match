@@ -15,7 +15,8 @@ An interactive and educational Flutter game designed for children to improve the
 
 ## 🌟 Gameplay
 
-Drag a shape and match it with its identical pair. Once two identical shapes overlap, they disappear. Complete all matches to win the game. Each match reinforces visual recognition and spatial reasoning.
+Drag a shape and match it with its identical pair. Once two identical shapes overlap, they disappear. 
+Complete all matches to win the game. Each match reinforces visual recognition and spatial reasoning.
 
 ## ⚙️ Tech Stack
 
@@ -24,10 +25,6 @@ Drag a shape and match it with its identical pair. Once two identical shapes ove
 * **UI:** CustomPainter for shape rendering
 * **State Management:** StatefulWidgets
 * **Animation:** AnimationController + Timer
-
-## 🎡 Screenshots
-
-*Coming soon*
 
 ## 🎉 Game Completion
 
