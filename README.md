@@ -42,11 +42,11 @@ No third-party packages are used.
 ## 👤 Developer
 
 **Bektas Sari**
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)
-GitHub: [bektas-sari](https://github.com/bektas-sari)
-LinkedIn: [bektas-sari](https://www.linkedin.com/in/bektas-sari)
-ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3)
-Academia: [Bektas Sari](https://independent.academia.edu/bektassari)
+Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com) <br>
+GitHub: [bektas-sari](https://github.com/bektas-sari) <br>
+LinkedIn: [bektas-sari](https://www.linkedin.com/in/bektas-sari) <br>
+ResearchGate: [Bektas Sari](https://www.researchgate.net/profile/Bektas-Sari-3) <br>
+Academia: [Bektas Sari](https://independent.academia.edu/bektassari) <br>
 
 ## 📁 Getting Started
 
