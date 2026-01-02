@@ -39,16 +39,20 @@ Complete all matches to win the game. Each match reinforces visual recognition a
 
 No third-party packages are used.
 
-## 👤 Developer
+## 👤 Perception Architect
 
-**Bektaş Sarı**<br>
-PhD in Advertising, AI + Creativity researcher<br>
-Flutter Developer & Software Educator<br>
+**Dr. Bektaş Sarı** | Perception Architect & Founder @ [KOGNITECT](https://kognitect.com)
 
-- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
-- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
-- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+I build bridges between **Human Nature** and **Digital Technology**.
+My mission is to **construct** and **refine** rational, scientifically grounded products that establish **clarity, solidity, and trust**—not through manipulation, but through neuroscience and evolutionary psychology.
+
+*PhD in Advertising (Focus: AI as a Design Tool)*
+
+- 🌐 **Website:** [kognitect.com](https://kognitect.com)
+- 📩 **Email:** [info@kognitect.com](mailto:info@kognitect.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)
+- 🔬 **ResearchGate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)
+- 🎓 **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
 ## 📁 Getting Started
 
